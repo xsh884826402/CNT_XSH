@@ -1,0 +1,2 @@
+Find_not_match_example 文件，找到与excell表不匹配的特征，并输出。
+load——fenci 加载excell文件，将辨证存成词典。

@@ -1,0 +1,5 @@
+python object_detection/train.py --logtostderr --pipeline_config_path=data/faster_rcnn_resnet101_pets.config --train_dir=train
+python object_detection/eval.py  --logtostderr --pipeline_config_path=data/faster_rcnn_resnet101_pets.config --checkpoint_dir=train --eval_dir=eval
+
+python object_detection/train.py --logtostderr --pipeline_config_path=data/xsh.config --train_dir=train_xsh
+python object_detection/eval.py --pipeline_config_path=data/xsh.config --checkpoint_dir=train_xsh --eval_dir=eval_xsh

@@ -1,0 +1,14 @@
+<annotation>
+	<folder>FIVE-1-1085-&#35895;&#33391;</folder>
+	<filename>5- (1066).jpg</filename>
+	<path>C:\Users\Administrator\Desktop\FIVE-1-1085-&#35895;&#33391;\FIVE-1-1085-&#35895;&#33391;\FIVE-1-1085-&#35895;&#33391;\5- (1066).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>80</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>1</name><pose>Unspecified</pose><truncated>1</truncated><difficult>0</difficult><bndbox><xmin>2</xmin><ymin>3</ymin><xmax>4</xmax><ymax>5</ymax></bndbox></object><object><name>6</name><pose>Unspecified</pose><truncated>1</truncated><difficult>0</difficult><bndbox><xmin>7</xmin><ymin>8</ymin><xmax>9</xmax><ymax>9</ymax></bndbox></object></annotation>
